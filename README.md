@@ -119,11 +119,6 @@ Through this project, I aim to strengthen my understanding of:
 - Consistent design systems.
 - User-centered shopping journeys.
 
-**Project Links**
-
-- GitHub Repository: "LUXORA E-Commerce UI/UX" (https://github.com/siddiquifatimamajid/LUXORA-Ecommerce-UI-UX)
-- Google Stitch Design: Add your Google Stitch project link here.
-
 ---
 
 **Internship**
