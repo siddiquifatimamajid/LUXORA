@@ -86,49 +86,28 @@ White| #FFFFFF| Cards and surfaces
 - Modern sans-serif typography for body content and interface elements.
 
 **Screenshots**
+<img width="344" height="741" alt="image" src="https://github.com/user-attachments/assets/158a03c6-f499-4f2f-ba3f-ca04c18aa9d6" />
+<img width="331" height="727" alt="image" src="https://github.com/user-attachments/assets/faf1c326-dd26-4d56-aef4-134ee53071eb" />
+<img width="347" height="721" alt="image" src="https://github.com/user-attachments/assets/6cc7fa07-173b-483c-94ea-686a7b8c9393" />
+<img width="336" height="737" alt="image" src="https://github.com/user-attachments/assets/67871aff-8aad-4e8e-9703-0df89cb1e689" />
+<img width="341" height="732" alt="image" src="https://github.com/user-attachments/assets/273f66e0-7476-4ffb-b8db-31ae58dbd9bf" />
+<img width="320" height="735" alt="image" src="https://github.com/user-attachments/assets/ce31cdef-021c-43ce-8e92-d5f1d6b00875" />
+<img width="342" height="724" alt="image" src="https://github.com/user-attachments/assets/7f8b7b58-f557-4e94-8ee7-ec4a20c4aa84" />
+<img width="333" height="734" alt="image" src="https://github.com/user-attachments/assets/e8d043d5-e82b-4dca-a4cd-96f868d8f5e2" />
+<img width="334" height="721" alt="image" src="https://github.com/user-attachments/assets/d1901dc1-eebc-490f-ac70-f0696e7ebcc9" />
+<img width="357" height="754" alt="image" src="https://github.com/user-attachments/assets/c4d475ca-3f6f-40aa-91f7-8677dadfad9f" />
+<img width="336" height="744" alt="image" src="https://github.com/user-attachments/assets/3843438f-5065-4d64-9f75-7f79297063c4" />
+<img width="333" height="740" alt="image" src="https://github.com/user-attachments/assets/e4b15e68-6222-41f3-8c61-87b4151a83ac" />
+<img width="318" height="658" alt="image" src="https://github.com/user-attachments/assets/1faaad9a-570d-4693-958d-feaf7f7fdabd" />
 
-01. Home / Storefront
+**Tools & Technologies**
 
-"LUXORA Home Screen" 
-<img width="344" height="741" alt="image" src="https://github.com/user-attachments/assets/73aa0feb-4bcf-49f2-b18e-bdf405b39f55" />
-
-
-02. Product Catalog
-
-"LUXORA Product Catalog" (screenshots/product-catalog.png)
-
-03. Product Detail
-
-"LUXORA Product Detail" (screenshots/product-detail.png)
-
-04. Wishlist
-
-"LUXORA Wishlist" (screenshots/wishlist.png)
-
-05. Shopping Bag
-
-"LUXORA Shopping Bag" (screenshots/shopping-bag.png)
-
-06. Checkout
-
-"LUXORA Checkout" (screenshots/checkout.png)
-
-07. Order Confirmation
-
-"LUXORA Order Confirmation" (screenshots/order-confirmation.png)
-
-08. Product Reviews
-
-"LUXORA Product Reviews" (screenshots/product-reviews.png)
-
-Tools & Technologies
-
-- Google Stitch – AI-assisted UI generation and design.
+- Google Stitch – https://stitch.google.com/projects/10637149747035722600
 - UI/UX Design Principles – User-centered design and visual hierarchy.
 - Responsive Design – Mobile, tablet, and desktop layouts.
 - GitHub – Project documentation and version management.
 
-Learning Outcomes
+**Learning Outcomes**
 
 Through this project, I aim to strengthen my understanding of:
 
@@ -140,7 +119,7 @@ Through this project, I aim to strengthen my understanding of:
 - Consistent design systems.
 - User-centered shopping journeys.
 
-Project Links
+**Project Links**
 
 - GitHub Repository: "LUXORA E-Commerce UI/UX" (https://github.com/siddiquifatimamajid/LUXORA-Ecommerce-UI-UX)
 - Google Stitch Design: Add your Google Stitch project link here.
